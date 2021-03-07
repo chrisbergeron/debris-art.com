@@ -929,7 +929,7 @@ strong,
           color: rgba(255, 255, 255, 0.8); }
           @media (min-width: 601px) {
             .menu-links .links li a:hover, .menu-links .links li a.menu-visible, .menu-links .links li a:active {
-              color: #rgb(197, 166, 63);; } }
+              color: rgb(197, 166, 63); } }
       .menu-links .links li.cta {
         margin-top: -2px; }
         .menu-links .links li.cta a {
